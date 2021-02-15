@@ -1,0 +1,70 @@
+
+TINY COMPILATION: test.1.txt
+
+>>> Syntax error at line 1: unexpected token -> /
+
+>>> Syntax error at line 1: unexpected token -> *
+      
+>>> Syntax error at line 1: unexpected token -> *
+
+>>> Syntax error at line 1: unexpected token -> ID, name= A
+      
+>>> Syntax error at line 1: unexpected token -> ID, name= program
+      
+>>> Syntax error at line 1: unexpected token -> ID, name= to
+      
+>>> Syntax error at line 1: unexpected token -> ID, name= perform
+      
+>>> Syntax error at line 1: unexpected token -> ID, name= Euclid
+      
+>>> Syntax error at line 1: unexpected token -> ERROR: '
+      
+>>> Syntax error at line 1: unexpected token -> ERROR: '
+
+>>> Syntax error at line 1: unexpected token -> ID, name= s
+      
+>>> Syntax error at line 2: unexpected token -> ID, name= Algorithm
+      
+>>> Syntax error at line 2: unexpected token -> ID, name= to
+      
+>>> Syntax error at line 2: unexpected token -> ID, name= computer
+      
+>>> Syntax error at line 2: unexpected token -> ID, name= gcd
+      
+>>> Syntax error at line 2: unexpected token -> *
+      
+>>> Syntax error at line 2: unexpected token -> *
+
+>>> Syntax error at line 4: unexpected token -> ID, name= gcd
+      
+>>> Syntax error at line 4: unexpected token -> (
+      
+>>> Syntax error at line 4: unexpected token -> ID, name= u
+      
+>>> Syntax error at line 4: unexpected token -> ID, name= u
+      
+>>> Syntax error at line 4: unexpected token -> ERROR: ,
+      
+>>> Syntax error at line 4: unexpected token -> ERROR: ,
+
+>>> Syntax error at line 4: unexpected token -> ID, name= int
+      
+>>> Syntax error at line 4: unexpected token -> ID, name= v
+      
+>>> Syntax error at line 4: unexpected token -> )
+      
+>>> Syntax error at line 4: unexpected token -> )
+
+>>> Syntax error at line 11: unexpected token -> ID, name= void
+      
+>>> Syntax error at line 11: unexpected token -> ID, name= main
+      
+>>> Syntax error at line 11: unexpected token -> (
+      
+>>> Syntax error at line 11: unexpected token -> (
+
+>>> Syntax error at line 11: unexpected token -> ID, name= void
+      
+>>> Syntax error at line 11: unexpected token -> )
+      
+>>> Syntax error at line 11: unexpected token -> )
